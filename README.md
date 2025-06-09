@@ -1,5 +1,5 @@
 # GenericProxySW
-Standardized interception proxy SW (Made for fun to not use for real use cases lol)
+Standardized interception proxy SW (Made for fun do not use for real projects lol)
 
 ## Building
 ```sh
