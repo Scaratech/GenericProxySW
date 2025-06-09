@@ -1,0 +1,1 @@
+self.$rw = (body, url) => {return '<h1>a</h1>' + body};
